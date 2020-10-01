@@ -1,4 +1,5 @@
-# Todo-App-with-Flask with the approch of TDD (TEST DRIVEN DEVELOPMENT) (noSQL)
+# Todo-App-with-Flask with the approch of TDD (TEST DRIVEN DEVELOPMENT), and (noSQL)
+#todoapp
 Todo App with Flask and PyMongo
 making a REST API with Flask and connecting it to MongoDB database
 
